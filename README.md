@@ -1,2 +1,3 @@
-# mysql_notes
-Mysql notes for devops pro
+# Mysql Notes for Everyone
+
+Thanks for reading 
